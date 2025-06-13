@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Roberto, an Italian (almost) Developer 👋🏼:<br><br>👨🏼‍🎓 studying Computer Science at UniBa<br>👨🏼‍💻 working on random back-end stuff with Python 
+Hello World!
 
 ### 🚀 Featured Project
 [![telegram-monitor-discord](https://github-readme-stats.vercel.app/api/pin/?username=not-knope&repo=telegram-monitor-discord&theme=dark&hide_border=false)](https://github.com/not-knope/telegram-monitor-discord)
