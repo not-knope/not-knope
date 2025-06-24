@@ -4,6 +4,7 @@ Hello World!
 ### 🚀 Featured Project
 [![telegram-monitor-discord](https://github-readme-stats.vercel.app/api/pin/?username=not-knope&repo=telegram-monitor-discord&theme=dark&hide_border=false)](https://github.com/not-knope/telegram-monitor-discord)
 [![bluesky-followers-scraper-to-csv](https://github-readme-stats.vercel.app/api/pin/?username=not-knope&repo=bluesky-followers-scraper-to-csv&theme=dark&hide_border=false)](https://github.com/not-knope/bluesky-followers-scraper-to-csv)
+[![twitchify](https://github-readme-stats.vercel.app/api/pin/?username=not-knope&repo=twitchify&theme=dark&hide_border=false)](https://github.com/not-knope/twitchify)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@knope.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/knopeCS) 
