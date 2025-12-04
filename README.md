@@ -2,10 +2,11 @@
 Hello World!
 
 ### 🚀 Featured Projects
-[![telegram-monitor-discord](https://img.shields.io/github/stars/not-knope/telegram-monitor-discord?style=for-the-badge)](https://github.com/not-knope/telegram-monitor-discord)
-[![bluesky-followers-scraper-to-csv](https://img.shields.io/github/stars/not-knope/bluesky-followers-scraper-to-csv?style=for-the-badge)](https://github.com/not-knope/bluesky-followers-scraper-to-csv)
-[![twitchify](https://img.shields.io/github/stars/not-knope/twitchify?style=for-the-badge)](https://github.com/not-knope/twitchify)
-[![concorsi_inpa](https://img.shields.io/github/stars/not-knope/concorsi_inpa?style=for-the-badge)](https://github.com/not-knope/concorsi_inpa)
+[![telegram-monitor-discord](https://img.shields.io/github/stars/not-knope/telegram-monitor-discord?style=for-the-badge&label=telegram-monitor-discord)](https://github.com/not-knope/telegram-monitor-discord)
+[![bluesky-followers-scraper-to-csv](https://img.shields.io/github/stars/not-knope/bluesky-followers-scraper-to-csv?style=for-the-badge&label=bluesky-followers-scraper-to-csv)](https://github.com/not-knope/bluesky-followers-scraper-to-csv)
+[![twitchify](https://img.shields.io/github/stars/not-knope/twitchify?style=for-the-badge&label=twitchify)](https://github.com/not-knope/twitchify)
+[![concorsi_inpa](https://img.shields.io/github/stars/not-knope/concorsi_inpa?style=for-the-badge&label=concorsi_inpa)](https://github.com/not-knope/concorsi_inpa)
+
 
 
 
