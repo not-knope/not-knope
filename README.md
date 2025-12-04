@@ -8,6 +8,7 @@ Hello World!
 [![concorsi_inpa](https://img.shields.io/github/stars/not-knope/concorsi_inpa?style=for-the-badge)](https://github.com/not-knope/concorsi_inpa)
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@knope.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/knopeCS) 
 
