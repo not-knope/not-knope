@@ -6,7 +6,7 @@ Hello World!
 [![bluesky-followers-scraper-to-csv](https://img.shields.io/github/stars/not-knope/bluesky-followers-scraper-to-csv?style=for-the-badge&label=bluesky-followers-scraper-to-csv)](https://github.com/not-knope/bluesky-followers-scraper-to-csv)
 [![twitchify](https://img.shields.io/github/stars/not-knope/twitchify?style=for-the-badge&label=twitchify)](https://github.com/not-knope/twitchify)
 [![concorsi_inpa](https://img.shields.io/github/stars/not-knope/concorsi_inpa?style=for-the-badge&label=concorsi_inpa)](https://github.com/not-knope/concorsi_inpa)
-
+[![Hide-My-Email-iCloud-Manager](https://img.shields.io/github/stars/not-knope/Hide-My-Email-iCloud-Manager?style=for-the-badge&label=Hide-My-Email-iCloud-Manager)](https://github.com/not-knope/Hide-My-Email-iCloud-Manager)
 
 
 
