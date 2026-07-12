@@ -13,3 +13,9 @@
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br><br>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=not-knope&label=PROFILE+VIEWS&color=2ea043&style=for-the-badge" alt="profile views" />
+</div>
